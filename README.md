@@ -1,6 +1,6 @@
 # Fordefi EVM Contracts Deployer
 
-A simple tool to deploy smart contracts on any EVM-compatible blockchain using Fordefi.
+A simple toolkit to deploy smart contracts on any EVM-compatible blockchain using Fordefi.
 
 ## What is this?
 
