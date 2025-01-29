@@ -1,0 +1,23 @@
+node_modules
+package-lock.json
+.env
+.DS_Store
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/*
+ignition/modules/*
+
+# Signer folder containing your Fordefi .pem signing secret
+fordefi_secret/*
